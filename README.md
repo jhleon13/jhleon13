@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhleon13
 - 👀 I’m a vibe coder
-- 💞️ I’m looking to collaborate on any projects.
+  - I’m looking to collaborate on any projects.
 - 📫 How to reach me by email jhernandez1986@gmail.com.
 
 <!---
